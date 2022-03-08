@@ -6,4 +6,4 @@ Download the folder modified-gym-env from github - https://github.com/ucsdarclab
 My code/Report is in 1 jupyter notebook 
 
 
-<img src = "https://recordit.co/GmwXRmw1Me">
+<img src = "https://recordit.co/GmwXRmw1Me" width=''>
